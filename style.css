@@ -21,7 +21,7 @@ a{
     font-family: "Luckiest Guy", cursive;
     position: absolute;  
     top: 200px;
-    left: 800px; 
+    left: 250px; 
 }
 
 #button {
@@ -35,10 +35,10 @@ a{
   font-family: "Luckiest Guy", cursive;
   position: absolute;
   top: 200px;
-  left: 560px;
+  left: 60px;
 }
 .text{
     font-family: "Luckiest Guy", cursive;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 120px;
 }
